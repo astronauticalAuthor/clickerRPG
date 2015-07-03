@@ -1,0 +1,115 @@
+.red {
+	width: 100px;
+	border: 1px solid red;
+	border-radius: 3px;
+	height: 20px;
+	display: inline-block;
+}
+
+.blue {
+	width: 200px;
+	border: 1px solid blue;
+	border-radius: 3px;
+	height: 20px;
+	display: inline-block;
+}
+
+.green {
+	width: 500px;
+	border: 1px solid green;
+	border-radius: 3px;
+	height: 20px;
+	display: inline-block;
+}
+
+.black {
+	width: 300px;
+	border: 1px solid black;
+	border-radius: 3px;
+	height: 20px;
+	display: inline-block;
+}
+
+button {
+	height: 40px;
+	width: 40px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#redInner {
+	width: 0px;
+	height: 19px;
+	background-color: red;
+}
+
+#blueInner {
+	width: 0px;
+	height: 19px;
+	background-color: blue;
+}
+
+#greenInner {
+	width: 0px;
+	height: 19px;
+	background-color: green;
+}
+
+#blackInner {
+	width: 300px;
+	height: 19px;
+	background-color: black;
+	color: white;
+}
+
+/*.field {
+	width: 500px;
+	border: 1px solid black;
+	height: 200px;
+}*/
+
+.field {
+	width: 200px;
+	height: 500px;
+	border: 1px solid black;
+}
+
+/*.box {
+	height: 48px;
+	width: 48px;
+	border: 1px solid gray;
+	display: inline-block;
+	margin: 0px;
+	margin-top: 0px;
+	margin-bottom: -4px;
+}*/
+
+.box {
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+	margin: 0px;
+	margin-top: 0px;
+	margin-bottom: -4px;
+	background: black;
+}
+
+.redButton {
+	background-color: red;
+}
+
+.blueButton {
+	background-color: blue;
+}
+
+.greenButton {
+	background-color: green;
+}
+
+.column {
+	width: 50px;
+	height: 500px;
+	display: inline-block;
+	margin-right: -4px;
+}
